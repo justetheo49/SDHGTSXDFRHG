@@ -1,0 +1,21 @@
+{
+    "token": "ODY1MjYyNjM4NTAxOTg2MzQw.YPBcoA.3LA8RpwOJhdOcjHfWakgNWnMsD4",
+    "prefix": "+",
+    "wlrole": "947968567712837642",
+    "helperRole": "947492611097255966",
+    "embedColor": "#0f0000",
+    "m_AlreadyPubing_title": ":x: Une publicité est déjà en cours dans ce salon",
+    "m_AlreadyPubing_description": "Interrompez la publicité en cours ou attendez qu'elle se termine pour démarrer une nouvelle publicité dans ce salon",
+    "m_AlreadyPubing_footer": "Appuyez sur la croix pour annuler l'opération",
+    "m_wl_sucess": "vient d'obtenir l'accès au bot de JusteTheo",
+    "m_wl_error": ":x: Impossible de trouver cet utilisateur",
+    "m_wl_null": ":x: Veuillez mentionner la personne à wl",
+    "m_token_invalide_title": ":x: Le token est invalide ou a expiré",
+    "m_token_invalid_description": "Il se peut que votre bot ait été banni par discord, ou vous deviez allez rechercher un nouveau token dans l'linterface développeur de Discord **Le plus conseillé et de changer de bot discord en cas de bannissement!!**",
+    "m_pub_s1_stopped": ":x: Interruption de la publicité à votre demande",
+    "m_pub_time_stop_title": ":x: Temps écoulé",
+    "m_pub_time_stop_description": "Le delai imparti pour l'étape en cours est expiré",
+    "stream": "[LoveYou| SlyClub>All]"
+
+    
+}
